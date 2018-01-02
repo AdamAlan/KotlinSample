@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Kotlin Application</string>
+    <string name="toast">Toast</string>
+    <string name="random">Random</string>
+    <string name="zero">0</string>
+    <string name="count">Count</string>
+    <string name="random_heading">Here is a random number between 0 and %1d.</string>
+</resources>
