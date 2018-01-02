@@ -29,6 +29,7 @@ class SecondActivity : AppCompatActivity() {
         }
 
         textViewRandom.text = randomValue.toString() //Integer.toString(randomValue)
+//        textViewLabel.setText(randomValue.toString())
 
         textViewLabel.text = getString(R.string.random_heading, count)
     }
